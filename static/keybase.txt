@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/okjed
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://wanderingtech.org
+  * I am okjed (https://keybase.io/okjed) on keybase.
+  * I have a public key ASB7gPFWZsG6T9In2mxPF0nx5RfeMfr2tPAR4m0VR2ZqVQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202b5a0b886c58b3b13ac9f012d8a4911f404eec219057dadf32d71a5558dc6c230a",
+      "host": "keybase.io",
+      "kid": "01207b80f15666c1ba4fd227da6c4f1749f1e517de31faf6b4f011e26d1547666a550a",
+      "uid": "3f8b5320a3ad7aa2856b2a083d899219",
+      "username": "okjed"
+    },
+    "merkle_root": {
+      "ctime": 1650894792,
+      "hash": "65e2f9d54b5694a89e8482dd2d420a85c59fe00585bb46003540845e0dbe3dce4ee0a9a7171815850b93ec139e46b049be87d79e27ea9b6814375c4dda8e1041",
+      "hash_meta": "9576a9aba5fcc3402d53b03b59216a702f1c8f04fb2274b3496c8dc430bedf86",
+      "seqno": 22358872
+    },
+    "service": {
+      "entropy": "3BRzCPT3z7QYXfOFHt7D7dqx",
+      "hostname": "wanderingtech.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.2"
+  },
+  "ctime": 1650894815,
+  "expire_in": 504576000,
+  "prev": "aa38c2606effe73f25968ac01b8820ef8cfef63d514583639390ed61ea770f39",
+  "seqno": 44,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEge4DxVmbBuk/SJ9psTxdJ8eUX3jH69rTwEeJtFUdmalUKp3BheWxvYWTESpcCLMQgqjjCYG7/5z8llorAG4gg74z+9j1RRYNjk5DtYep3DznEIGwlz5F9PT20ty7I5mixDkJwBk2coaASx7+WK+FFlO+jAgHCo3NpZ8RAXJsuiUC9WpQZ/zZYgVRXCtVEf3DqmBN0Obqp8loi3TsZ4T2/Y7OrgkhsOdbl8m1SJj0iDYOFtv65AkShHV2cB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFen5fE4UIefw4qnOFGsl6uo47Hmd86XOdE5TLRODDIlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/okjed
+
+==================================================================
